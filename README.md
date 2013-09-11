@@ -2,7 +2,7 @@ ePlant
 ======
 
 The new ePlant provides an intuitive pictographic view of expression data across a diverge range of Microarray or RNASeq datasets. 
-It’s implemented based on Javascript frontend and PHP MYSQL webserrvice. It also uses [rsvg-convert](http://d3export.cancan.cshl.edu/download.txt) Perl library to convert SVG into PDF. The initial idea came from eFP(electronic Flourescent Pictogrpah) browser, hosted at the [Bio-Array Resource](http://bar.utoronto.ca/welcome.htm)
+It’s implemented based on Javascript frontend and PHP MYSQL webserrvice. It also uses [rsvg-convert](http://manpages.ubuntu.com/manpages/raring/man1/rsvg-convert.1.html) Perl library to convert SVG into PDF. The initial idea came from eFP(electronic Flourescent Pictogrpah) browser, hosted at the [Bio-Array Resource](http://bar.utoronto.ca/welcome.htm)
 
 Since this tool is based on Javascript it is more interactive easy to use and maintain.
 
