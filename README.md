@@ -22,3 +22,4 @@ zoom - Zoom perecentage
 ###Example Use
 http://localhost/eplant/index.php?allcontrols=[true/false]&exlink=[true/false]&download=[true/false]&mode=[relative/absolute]&view=[name of the view]&zoom=[0-1]&id=[gene id]
 
+[![jPlant](http://content.screencast.com/users/Chanm/folders/Jing/media/5b0aa9c3-7a0f-41c5-8e7f-b244e94a9ea7/00000008.png)]
