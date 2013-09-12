@@ -1,4 +1,4 @@
-##ePlant [![Build Status](https://travis-ci.org/angular/angular.js.png?branch=master)](https://github.com/irusri/ePlant.git)
+##ePlant [![Build Status](http://v22.popgenie.org/build_pass.png)](https://github.com/irusri/ePlant.git)
 ======
 
 The new ePlant provides an intuitive pictographic view of expression data across a diverge range of Microarray or RNASeq datasets. 
