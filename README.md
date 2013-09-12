@@ -7,7 +7,7 @@ It’s implemented based on Javascript frontend and PHP MYSQL webserrvice. It al
 This tool is based on Javascript. Therfore it is more interactive easy to use and maintain.
 
 ###External parameters
-
+Following parameters we can use as GET or POST variables.
 id - gene id  
 mode - relative or absolute  
 view - Here you can specify the name of your views
@@ -17,7 +17,14 @@ genelist - Boolean to visible gene list
 allcontrols - Boolean to visible all controls  
 download - Boolean to visible download buttons  
 exlink - Boolean to visible external eFP link  
-zoom - Zoom perecentage  
+zoom - Zoom perecentage
+
+###Database
+We use MySQL database and PHP JSON simple webservice.
+
+###Cookies
+We keep temporary variables inside browser cookies to avoid page reloading data losses and increase tool efficiency.
+
 
 ###Example Use
 http://localhost/eplant/index.php?allcontrols=[true/false]&exlink=[true/false]&download=[true/false]&mode=[relative/absolute]&view=[name of the view]&zoom=[0-1]&id=[gene id]
