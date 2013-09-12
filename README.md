@@ -20,10 +20,10 @@ exlink - Boolean to visible external eFP link
 zoom - Zoom perecentage
 
 ####Database
-We use MySQL database and PHP JSON simple webservice.
+ePlant uses MySQL database and PHP JSON simple webservice.
 
 ####Cookies
-We keep temporary variables inside browser cookies to avoid page reloading data losses and increase tool efficiency.
+ePlant keeps temporary variables inside browser cookies to avoid page reloading data losses and increase tool efficiency.
 
 
 ####Example Use
