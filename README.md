@@ -6,7 +6,7 @@ It’s implemented based on Javascript frontend and PHP MYSQL webserrvice. It al
 
 This tool is based on Javascript. Therfore it is more interactive easy to use and maintain.
 
-###External parameters
+####External parameters
 Following parameters we can use as GET or POST variables.  
 id - gene id  
 mode - relative or absolute  
@@ -26,7 +26,7 @@ We use MySQL database and PHP JSON simple webservice.
 We keep temporary variables inside browser cookies to avoid page reloading data losses and increase tool efficiency.
 
 
-###Example Use
+####Example Use
 http://localhost/eplant/index.php?allcontrols=[true/false]&exlink=[true/false]&download=[true/false]&mode=[relative/absolute]&view=[name of the view]&zoom=[0-1]&id=[gene id]
 
 [![jPlant](http://content.screencast.com/users/Chanm/folders/Jing/media/5b0aa9c3-7a0f-41c5-8e7f-b244e94a9ea7/00000008.png)]
