@@ -1,4 +1,4 @@
-ePlant
+ePlant[![Build Status](https://github.com/irusri/ePlant.git)](https://github.com/irusri/ePlant.git)
 ======
 
 The new ePlant provides an intuitive pictographic view of expression data across a diverge range of Microarray or RNASeq datasets. 
